@@ -1,0 +1,28 @@
+{
+  "@@locale": "tr",
+  "appTitle": "Haber Cepte",
+  "home": "Ana Sayfa",
+  "savedNews": "Kaydedilenler",
+  "profile": "Profil",
+  "hello": "Merhaba 👋",
+  "homeSubtitle": "Bugün gündemde neler var?",
+  "searchHint": "Haberlerde ara...",
+  "breakingNews": "Son Dakika",
+  "dailyNews": "Günün Haberleri",
+  "languageSelection": "Dil Seçimi",
+  "turkish": "Türkçe",
+  "english": "English",
+  "darkMode": "Karanlık Tema",
+  "notifications": "Bildirimler",
+  "logout": "Çıkış Yap",
+  "noNews": "Haber bulunamadı.",
+  "news": "Haberleri",
+  
+  "newsSource": "Haber Kaynağı",
+  "categoryAll": "Tümü",
+  "categorySports": "Spor",
+  "categoryTechnology": "Teknoloji",
+  "categoryBusiness": "İş Dünyası",
+  "categoryHealth": "Sağlık",
+  "categoryWorld": "Dünya"
+}

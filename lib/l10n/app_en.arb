@@ -1,0 +1,28 @@
+{ 
+  "@@locale": "en",
+  "appTitle": "Haber Cepte",
+  "home": "Home",
+  "savedNews": "Saved",
+  "profile": "Profile",
+  "hello": "Hello 👋",
+  "homeSubtitle": "What is trending today?",
+  "searchHint": "Search news...",
+  "breakingNews": "Breaking News",
+  "dailyNews": "Daily News",
+  "languageSelection": "Language Selection",
+  "turkish": "Turkish",
+  "english": "English",
+  "darkMode": "Dark Mode",
+  "notifications": "Notifications",
+  "logout": "Logout",
+  
+  "noNews": "No news found.",
+  "news": "News",
+  "newsSource": "News Source",
+  "categoryAll": "All",
+  "categorySports": "Sports",
+  "categoryTechnology": "Technology",
+  "categoryBusiness": "Business",
+  "categoryHealth": "Health",
+  "categoryWorld": "World"
+}
